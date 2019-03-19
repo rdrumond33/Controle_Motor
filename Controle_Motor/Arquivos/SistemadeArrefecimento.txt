@@ -1,0 +1,1 @@
+nivelAtualAgua 80 TemperaturaAtual 80 TemperaturaDeAlerta 100
